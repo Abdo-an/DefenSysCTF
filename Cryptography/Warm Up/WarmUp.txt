@@ -1,0 +1,6 @@
+I am tirified to decrypt this tbh: IIIHYW_MZXIDVULRQUUUT_CJRIBUUOYYYUUXRLU_DHC_CZCIQ_AFLYYBXO
+
+
+Flag format: DEFENSYS{DecreptedMsg}
+
+Author: Hicham Ouardi
